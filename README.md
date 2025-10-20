@@ -1,6 +1,6 @@
 # DESCRIPCIÓ DEL PROJECTE *(Objectius, repte i producte final)*
 
-##Aqui veuras les diferents tasques del projecte:
+## Aqui veuras les diferents tasques del projecte:
 
 
 
