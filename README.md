@@ -1,5 +1,9 @@
 # DESCRIPCIÓ DEL PROJECTE *(Objectius, repte i producte final)*
 
+##Aqui veuras les diferents tasques del projecte:
+
+
+
 ## EverPia 2: “Sobreviure en una empresa IT”
 
 Després de mesos de feina intensa, nits de pizza i *commits* a última hora, la consultora **EverPia** ha viscut el seu primer gran èxit.  
