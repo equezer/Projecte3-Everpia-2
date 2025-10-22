@@ -65,4 +65,4 @@ Per a cada eina, executeu les comandes indicades contra el domini especificat i 
 > - Segona: **Adaptador pont**  
 > - IP configurada correctament segons indicacions dels responsables tècnics.
 
-Al arxiu: [solució.md](solucio.md) hi ha la solució de la Tasca6
+Al arxiu: [Activitats.md](Activitats.md) hi ha la solució de la Tasca6
