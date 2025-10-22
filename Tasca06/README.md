@@ -8,18 +8,6 @@ Se us ha encarregat realitzar una **auditoria teòrica i pràctica del servei DN
 
 ---
 
-## 🧩 Producte final a entregar
-
-1. Crear una carpeta al repositori anomenada `tasca06`.  
-2. A l’arxiu `README.md`:
-   - Copiar **l’enunciat de l’activitat**.  
-   - Afegir una secció anomenada **Activitats**, on inclogueu:
-     - 🔗 L’enllaç al **vídeo gravat** (pujat a **Drive** o al vostre **Office365** amb l’aplicació *Stream*).  
-       > Assegureu-vos de donar permisos de reproducció.  
-     - 📄 L’enllaç al document `guia.md` de la fase pràctica.
-
----
-
 ## 🧠 Fase Teòrica: Sessió formativa
 
 Com a part d’aquesta formació, caldrà que **elaboreu un material formatiu** pel personal del client.  
@@ -64,5 +52,18 @@ Per a cada eina, executeu les comandes indicades contra el domini especificat i 
 > - Primera: **NAT**  
 > - Segona: **Adaptador pont**  
 > - IP configurada correctament segons indicacions dels responsables tècnics.
+
+---
+
+## 🧩 Producte final a entregar
+
+1. Crear una carpeta al repositori anomenada `tasca06`.  
+2. A l’arxiu `README.md`:
+   - Copiar **l’enunciat de l’activitat**.  
+   - Afegir una secció anomenada **Activitats**, on inclogueu:
+     - 🔗 L’enllaç al **vídeo gravat** (pujat a **Drive** o al vostre **Office365** amb l’aplicació *Stream*).  
+       > Assegureu-vos de donar permisos de reproducció.  
+     - 📄 L’enllaç al document `guia.md` de la fase pràctica.
+
 
 Al arxiu: [Activitats.md](Activitats.md) hi ha la solució de la Tasca6
