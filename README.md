@@ -2,7 +2,9 @@
 
 ## Aqui veuras les diferents tasques del projecte:
 
-
+- [Tasca01](Tasca01)
+- [Tasca02](Tasca02)
+- [Tasca02](Tasca02)
 
 ## EverPia 2: “Sobreviure en una empresa IT”
 
