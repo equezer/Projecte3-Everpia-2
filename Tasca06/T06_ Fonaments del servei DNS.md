@@ -1,26 +1,35 @@
 **Fase Pràctica: Diagnosi de Noms (Auditoria amb CLI)**
 
+
 *Comanda 1: Consulta Bàsica de Registre A**  
      
   Executa dig xtec.cat A  
-    
+
+
+	
     
 *Comanda 2: Consulta de Servidors de Noms (NS)**
 
-
 	Executa dig tecnocampus.cat NS
+
+
+
 
 *Comanda 3: Consulta Detallada SOA**
 
 	Executa dig escolapia.cat SOA
 
+
+
 *Comanda 4: Consulta resolució inversa**
 
 	Executa comanda dig \-x 147.83.2.135
 
+
+
 El registre que s’obté és de tipus **PTR**, utilitzat per la resolució inversa (IP → nom).
 
-*Comprovació de Resolució amb nslookup (Multiplataforma)**
+**Comprovació de Resolució amb nslookup (Multiplataforma)**
 
 *Comanda 1: Consulta Bàsica no Autoritativa**
 
