@@ -3,6 +3,9 @@
 ## Aqui veuras les diferents tasques del projecte:
 
 - [Tasca01](Tasca01)
+- [Tasca02](Tasca02)
+- [Tasca03](Tasca03)
+- [Tasca04](Tasca04)
 - [Tasca05](Tasca05)
 - [Tasca06](Tasca06)
 
