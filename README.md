@@ -8,6 +8,7 @@
 - [Tasca04](Tasca04)
 - [Tasca05](Tasca05)
 - [Tasca06](Tasca06)
+- [Tasca07](Tasca07)
 
 ## EverPia 2: “Sobreviure en una empresa IT”
 
