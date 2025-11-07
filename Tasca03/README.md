@@ -131,5 +131,6 @@ Posteriorment, haureu de **presentar al client les conclusions** de la vostra fe
 
  L’èxit d’aquest projecte dependrà de la vostra capacitat per combinar coneixement tècnic, treball en equip i una documentació clara i precisa.
 
+a l'arxiu: [solucio.md](solucio.md) trobaras la solució a la tasca
 
 [Torna a la pàgina principal](../README.md)
