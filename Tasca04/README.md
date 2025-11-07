@@ -49,6 +49,6 @@ Configurar un **equip client** perquè utilitzi el directori per autenticar els 
 S’ha redactat un document on s’especifica clarament la feina que s’ha de desenvolupar.  
 El teniu disponible en el **plec de condicions tècniques** (també accessible al **Moodle de l’assignatura**).
 
----
+a l'arxiu: [solucio.md](solucio.md) trobaras la solució a la tasca
 
-💡 Recorda: una bona gestió d’usuaris és la clau per mantenir la seguretat i l’eficiència en qualsevol entorn empresarial.
+[Torna a la pàgina principal](../README.md)
