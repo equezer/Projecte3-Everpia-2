@@ -2,32 +2,31 @@
 
 [Carpeta del video](https://drive.google.com/drive/folders/1j7e303m7YcG7aFf4nYoFpKtBzrLM6K8-?usp=drive_link-) 
 
-**Fase Pràctica: Diagnosi de Noms (Auditoria amb CLI)**
+# Fase Pràctica: Diagnosi de Noms (Auditoria amb CLI)**
 
 
-
-# Comanda 1: Consulta Bàsica de Registre A**  
+## Comanda 1: Consulta Bàsica de Registre A**  
      
   Executa dig xtec.cat A  
 
 <img width="566" height="368" alt="Captura de pantalla 2025-10-27 200946" src="https://github.com/user-attachments/assets/83447cc3-a578-4541-aefb-c3df46ecf475" />
 
 	    
-*Comanda 2: Consulta de Servidors de Noms (NS)**
+## Comanda 2: Consulta de Servidors de Noms (NS)**
 
 	Executa dig tecnocampus.cat NS
 
 <img width="590" height="189" alt="Captura de pantalla 2025-10-27 202342" src="https://github.com/user-attachments/assets/ba004cbd-2878-473d-a609-4b0cd26ac243" />
 
 
-*Comanda 3: Consulta Detallada SOA**
+## Comanda 3: Consulta Detallada SOA**
 
 	Executa dig escolapia.cat SOA
 
 <img width="1013" height="439" alt="Captura de pantalla 2025-10-27 211841" src="https://github.com/user-attachments/assets/3046408c-33ec-4223-a78f-583470108d08" />
 
 
-*Comanda 4: Consulta resolució inversa**
+## Comanda 4: Consulta resolució inversa**
 
 	Executa comanda dig \-x 147.83.2.135
 
@@ -37,17 +36,17 @@
 El registre que s’obté és de tipus **PTR**, utilitzat per la resolució inversa (IP → nom).
 
 
-**Comprovació de Resolució amb nslookup (Multiplataforma)**
+# Comprovació de Resolució amb nslookup (Multiplataforma)
 
 
-*Comanda 1: Consulta Bàsica no Autoritativa**
+## Comanda 1: Consulta Bàsica no Autoritativa**
 
 <img width="302" height="271" alt="Captura de pantalla 2025-10-30 153302" src="https://github.com/user-attachments/assets/36fa9cbc-8eb8-49d4-92ba-4ed93f17a435" />
 
 
 La informació prové directament del servidor de noms autoritatiu del domini (ns.tecnocampus.cat, per exemple).
 
-*Comanda 2: Consultes autoritatives**
+## Comanda 2: Consultes autoritatives**
 
   * Escriure *server IP* i escriure la IP del primer servidor de noms del domini tecnocampus.cat que s’ha obtingut d’una consulta anterior. A continuació, indiqueu que voleu consultar registres de tipus A i del domini tecnocampus.cat  
   * Anàlisi: Quines diferències s’observen a la resposta obtinguda amb la comanda 1?
