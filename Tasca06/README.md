@@ -74,6 +74,4 @@ Per a cada eina, executeu les comandes indicades contra el domini especificat i 
 
 Al arxiu: [Activitats.md](Activitats.md) hi ha la solució de la Tasca6
 
-i al arxiu: [T06_Fonaments del servei DNS.md](T06_Fonaments del servei DNS.md) trobaras la guia.
-
 [torna a la pàgina principal](../README.md)
