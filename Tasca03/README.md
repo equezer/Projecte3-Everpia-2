@@ -33,7 +33,6 @@ L'objectiu principal és **dissenyar i documentar dues solucions d'emmagatzematg
 
 >  Com que es tracta d’una prova de concepte, no treballareu amb servidors reals, sinó que, per facilitat, usareu **màquines virtuals de sistemes operatius clients** per documentar els procediments.
 
-![imagen](img/Tasca03_enunciado_1.png)
 
 ##  Part Linux: LVM amb Zorin OS
 
