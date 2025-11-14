@@ -2,6 +2,9 @@
 
 ## Aqui veuras les diferents tasques del projecte:
 
+- [P01](P01)
+- [P03](P03)
+- [P04](P04)
 - [Tasca01](Tasca01)
 - [Tasca02](Tasca02)
 - [Tasca03](Tasca03)
