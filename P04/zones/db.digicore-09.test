@@ -1,0 +1,10 @@
+          IN  SOA  ns1.digicore-09.test. root.digicore-09.test (
+
+
+          IN  NS   ns1.digicore-09.test.
+ 
+ns1       IN  A    192.168.4.9
+server    IN  A    192.168.4.9
+deserver  IN  A    192.168.4.109
+data      IN  CNAME deserver.digicore-09.test.
+)
